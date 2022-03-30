@@ -423,6 +423,14 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.vibrator@1.0-impl \
     android.hardware.vibrator@1.0-service
+# GoogleKeyboard
+
+PRODUCT_PACKAGES += \
+GoogleKeyboard
+
+# Camera
+PRODUCT_PACKAGES += \
+    GoogleCameraGo
 
 # Wifi
 PRODUCT_PACKAGES += \
